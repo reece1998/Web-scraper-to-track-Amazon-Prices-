@@ -1,0 +1,2 @@
+# Web-scraper-to-track-Amazon-Prices-
+Web scraper App that finds a pre-given products price on amazon then emails the host if the price is below a set value. This App is great for people trying to find a bargain or on a budget. The app updates each day to see if the price is lower than a set value and if true, an email will be sent alerting them via Gmail using SMTP protocol. The project was developed using Python and Beautiful Soup.
