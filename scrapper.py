@@ -41,8 +41,8 @@ def send_mail(price):
 
     #send email from reece... to reece...
     server.sendmail(
-        'reece.t.fryer@gmail.com',
-        'reece.t.fryer@gmail.com',
+        'email@gmail.com',
+        'email@.com',
         msg
     )
     print('Email has been sent')
